@@ -1,0 +1,76 @@
+2026-03-03 07:54:58,430 | INFO | Camera running... capturing every 40 seconds
+2026-03-03 07:54:58,431 | INFO | Press 'q' to quit
+2026-03-03 07:54:59,436 | WARNING | Camera error. Retrying...
+2026-03-03 07:55:38,479 | INFO | Captured at 07-55-38
+2026-03-03 07:55:38,479 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-55-38.jpg
+2026-03-03 07:55:38,479 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-55-38.jpg
+2026-03-03 07:56:18,489 | INFO | Captured at 07-56-18
+2026-03-03 07:56:18,489 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-56-18.jpg
+2026-03-03 07:56:18,489 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-56-18.jpg
+2026-03-03 07:56:57,097 | INFO | Cleanup done in ./captured_images, kept: ./captured_images/Mumbai_Street_01_2026-03-03_07-56-18.jpg
+2026-03-03 07:56:57,098 | INFO | Cleanup done in ./normal, kept: ./normal/Mumbai_Street_01_2026-03-03_07-56-18.jpg
+2026-03-03 07:56:58,513 | INFO | Captured at 07-56-58
+2026-03-03 07:56:58,514 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-56-58.jpg
+2026-03-03 07:56:58,514 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-56-58.jpg
+2026-03-03 07:57:38,522 | INFO | Captured at 07-57-38
+2026-03-03 07:57:38,522 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-57-38.jpg
+2026-03-03 07:57:38,523 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-57-38.jpg
+2026-03-03 07:58:18,526 | INFO | Captured at 07-58-18
+2026-03-03 07:58:18,527 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-58-18.jpg
+2026-03-03 07:58:18,527 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-58-18.jpg
+2026-03-03 07:58:57,107 | INFO | Cleanup done in ./captured_images, kept: ./captured_images/Mumbai_Street_01_2026-03-03_07-58-18.jpg
+2026-03-03 07:58:57,108 | INFO | Cleanup done in ./normal, kept: ./normal/Mumbai_Street_01_2026-03-03_07-58-18.jpg
+2026-03-03 07:58:58,522 | INFO | Captured at 07-58-58
+2026-03-03 07:58:58,522 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-58-58.jpg
+2026-03-03 07:58:58,522 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-58-58.jpg
+2026-03-03 07:59:38,529 | INFO | Captured at 07-59-38
+2026-03-03 07:59:38,529 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_07-59-38.jpg
+2026-03-03 07:59:38,529 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_07-59-38.jpg
+2026-03-03 21:46:57,036 | INFO | Camera running... capturing every 40 seconds
+2026-03-03 21:46:57,036 | INFO | Press 'q' to quit
+2026-03-03 21:46:58,040 | WARNING | Camera error. Retrying...
+2026-03-03 21:47:37,071 | INFO | Captured at 21-47-37
+2026-03-03 21:47:37,071 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_21-47-37.jpg
+2026-03-03 21:47:37,071 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_21-47-37.jpg
+2026-03-03 21:48:17,108 | INFO | Captured at 21-48-17
+2026-03-03 21:48:17,108 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_21-48-17.jpg
+2026-03-03 21:48:17,108 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_21-48-17.jpg
+2026-03-03 21:48:55,762 | INFO | Cleanup done in ./captured_images, kept: ./captured_images/Mumbai_Street_01_2026-03-03_21-48-17.jpg
+2026-03-03 21:48:55,763 | INFO | Cleanup done in ./normal, kept: ./normal/Mumbai_Street_01_2026-03-03_21-48-17.jpg
+2026-03-03 21:48:57,139 | INFO | Captured at 21-48-57
+2026-03-03 21:48:57,139 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_21-48-57.jpg
+2026-03-03 21:48:57,139 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_21-48-57.jpg
+2026-03-03 21:49:37,135 | INFO | Captured at 21-49-37
+2026-03-03 21:49:37,135 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_21-49-37.jpg
+2026-03-03 21:49:37,135 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_21-49-37.jpg
+2026-03-03 21:50:17,151 | INFO | Captured at 21-50-17
+2026-03-03 21:50:17,151 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-03_21-50-17.jpg
+2026-03-03 21:50:17,151 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-03_21-50-17.jpg
+2026-03-04 08:17:51,180 | INFO | Camera running... capturing every 40 seconds
+2026-03-04 08:17:51,180 | INFO | Press 'q' to quit
+2026-03-04 08:17:52,187 | WARNING | Camera error. Retrying...
+2026-03-04 08:18:31,211 | INFO | Captured at 08-18-31
+2026-03-04 08:18:31,211 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-18-31.jpg
+2026-03-04 08:18:31,211 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-18-31.jpg
+2026-03-04 08:19:11,216 | INFO | Captured at 08-19-11
+2026-03-04 08:19:11,216 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-19-11.jpg
+2026-03-04 08:19:11,216 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-19-11.jpg
+2026-03-04 08:19:49,878 | INFO | Cleanup done in ./captured_images, kept: ./captured_images/Mumbai_Street_01_2026-03-04_08-19-11.jpg
+2026-03-04 08:19:49,879 | INFO | Cleanup done in ./normal, kept: ./normal/Mumbai_Street_01_2026-03-04_08-19-11.jpg
+2026-03-04 08:19:51,245 | INFO | Captured at 08-19-51
+2026-03-04 08:19:51,245 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-19-51.jpg
+2026-03-04 08:19:51,245 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-19-51.jpg
+2026-03-04 08:20:31,252 | INFO | Captured at 08-20-31
+2026-03-04 08:20:31,253 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-20-31.jpg
+2026-03-04 08:20:31,253 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-20-31.jpg
+2026-03-04 08:21:11,255 | INFO | Captured at 08-21-11
+2026-03-04 08:21:11,255 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-21-11.jpg
+2026-03-04 08:21:11,255 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-21-11.jpg
+2026-03-04 08:21:49,901 | INFO | Cleanup done in ./captured_images, kept: ./captured_images/Mumbai_Street_01_2026-03-04_08-21-11.jpg
+2026-03-04 08:21:49,902 | INFO | Cleanup done in ./normal, kept: ./normal/Mumbai_Street_01_2026-03-04_08-21-11.jpg
+2026-03-04 08:21:51,269 | INFO | Captured at 08-21-51
+2026-03-04 08:21:51,269 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-21-51.jpg
+2026-03-04 08:21:51,269 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-21-51.jpg
+2026-03-04 08:22:31,290 | INFO | Captured at 08-22-31
+2026-03-04 08:22:31,290 | INFO | Raw saved: ./captured_images/Mumbai_Street_01_2026-03-04_08-22-31.jpg
+2026-03-04 08:22:31,290 | INFO | Classified saved: ./normal/Mumbai_Street_01_2026-03-04_08-22-31.jpg
